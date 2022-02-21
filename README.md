@@ -1,5 +1,8 @@
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrDalo)](https://github.com/anuraghazra/github-readme-stats)
+### Hi my name is Dalibor Králik 👋
+#### I´m student of the second year on FIT VUT in Brno 👩‍💻
+* I´m working for VUT as a software developer in SAP BW creating ELT and infocubes.
+* My pasion is web front-end development, where I keep trying to improve.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrDalo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MrDalo/MrDalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
