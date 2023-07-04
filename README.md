@@ -1,5 +1,5 @@
 ### Hi my name is Dalibor Králik 👋
-#### I´m a third-year student at FIT VUT in Brno 👩‍💻
+#### I finished my bachelor's degree at FIT BUT and I'm going to study my master's degree at FI MU in Brno (Software Engineering). 👩‍💻
 
 ##### - I´m working for VUT as a software developer in SAP BW, SAP BW/4HANA creating ETL and infocubes.
 ##### - My passion is web front-end development, where I keep trying to improve.
