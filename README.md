@@ -1,7 +1,7 @@
 ### Hi my name is Dalibor Králik 👋
 #### I finished my bachelor's degree at FIT BUT and I'm going to study my master's degree at FI MU in Brno (Software Engineering). 👩‍💻
 
-##### - I´m working Front-end developer at DTSE CZ in Brno.
+##### - I´m working as a Front-end developer at DTSE CZ in Brno.
 ##### - My passion is web front-end development, where I keep trying to improve.
 
 
