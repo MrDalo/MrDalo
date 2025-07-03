@@ -3,7 +3,7 @@
 🎓 I recently graduated with a Master’s degree in **Software Engineering** from **Masaryk University** in Brno.  
 💼 I'm currently working as a **Front-End Developer** at **Deutsche Telekom Services Europe (DTSE CZ)**.  
 🌐 I'm passionate about **web front-end development**, especially clean architecture, testing strategies, and building great user experiences.  
-🤖 I'm currently exploring how to **combine AI with front-end development** to boost productivity and create smarter, more efficient workflows.
+🤖 I'm currently exploring how to **combine AI with front-end development** to boost productivity and create smarter, more efficient workflows.  
 🚀 Always eager to learn, improve, and explore new technologies in the front-end world.
 
 Let’s connect and build something great together!
