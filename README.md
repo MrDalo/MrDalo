@@ -4,7 +4,7 @@
 💼 I'm currently working as a **Front-End Developer** at **Deutsche Telekom Services Europe (DTSE CZ)**.  
 🌐 I'm passionate about **web front-end development**, especially clean architecture, testing strategies, and building great user experiences.  
 🤖 I'm currently exploring how to **combine AI with front-end development** to boost productivity and create smarter, more efficient workflows.  
-🚀 Always eager to learn, improve, and explore new technologies in the front-end world.
+🚀 Always eager to learn, improve, and explore new technologies in the front-end world.  
 👨‍💻 I'm currently working on [CloakForge](https://cloakforge.vercel.app/).
 
 Let’s connect and build something great together!
