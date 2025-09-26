@@ -1,4 +1,4 @@
-# Hi, I'm Dalibor Králik 👋
+# Hi, I'm Dalibor 👋
 
 🎓 I recently graduated with a Master’s degree in **Software Engineering** from **Masaryk University** in Brno.  
 💼 I'm currently working as a **Front-End Developer** at **Deutsche Telekom Services Europe (DTSE CZ)**.  
