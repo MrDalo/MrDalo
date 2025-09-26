@@ -5,8 +5,7 @@
 🌐 I'm passionate about **web front-end development**, especially clean architecture, testing strategies, and building great user experiences.  
 🤖 I'm currently exploring how to **combine AI with front-end development** to boost productivity and create smarter, more efficient workflows.  
 🚀 Always eager to learn, improve, and explore new technologies in the front-end world.
-
-Currenly I am working on [CloakForge](https://cloakforge.vercel.app/).
+👨‍💻 I'm currently working on [CloakForge](https://cloakforge.vercel.app/).
 
 Let’s connect and build something great together!
 
